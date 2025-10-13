@@ -1,1 +1,0 @@
-import{Sa as o}from"./chunk-Y22UWZ2R.js";var e=class e{transform(r,n){if(!n||n.length===0)return"";let t=n.find(i=>i.key===r||i.value===r);return t?t.description:""}};e.\u0275fac=function(n){return new(n||e)},e.\u0275pipe=o({name:"enums",type:e,pure:!0,standalone:!1});var f=e;export{f as a};
