@@ -1,1 +1,0 @@
-import{Lc as i,Rc as p}from"./chunk-4UC5MNAK.js";import{Pa as m,Uc as t,X as r,_d as n,wd as e}from"./chunk-4PHK4ED5.js";var o=class o{};o.\u0275fac=function(a){return new(a||o)},o.\u0275mod=m({type:o}),o.\u0275inj=r({providers:[n,i],imports:[t,e,p]});var f=o;export{f as a};
