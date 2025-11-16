@@ -1,0 +1,1 @@
+import{Sa as n}from"./chunk-NB7YGABA.js";var r=class r{transform(e,...a){return JSON.stringify(e,null,2).replace(/ /g,"&nbsp;").replace(/\n/g,"<br/>")}};r.\u0275fac=function(a){return new(a||r)},r.\u0275pipe=n({name:"prettyjson",type:r,pure:!0,standalone:!1});var t=r;export{t as a};

@@ -1,1 +1,0 @@
-import{Ra as f}from"./chunk-D5KH3ZDN.js";var t=class t{transform(i,r,s="title",n="titleML"){if(!i||!r||r.length===0)return"";let e=r.find(p=>p.id===i);return e?!n||n.length==0||!e[n]||e[n].length===0?e[s]:n&&n.length>0?e[n]:"":i}};t.\u0275fac=function(r){return new(r||t)},t.\u0275pipe=f({name:"cmstitle",type:t,pure:!0,standalone:!1});var o=t;export{o as a};
