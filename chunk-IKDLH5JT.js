@@ -1,1 +1,0 @@
-import{Oa as i,Va as e,md as m}from"./chunk-7KXCO7RP.js";var t=class t{constructor(r){this.sanitizer=r}transform(r){return"cms-RecordStatusEnum-cell-"+r}};t.\u0275fac=function(a){return new(a||t)(i(m,16))},t.\u0275pipe=e({name:"statusCellClass",type:t,pure:!0,standalone:!1});var o=t;export{o as a};
