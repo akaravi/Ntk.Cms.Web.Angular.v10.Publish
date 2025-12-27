@@ -1,1 +1,0 @@
-import{Tc as f,kc as p}from"./chunk-PZIDJ2FQ.js";import{Fe as n,Ta as e,Y as r,_c as m,ve as t,ze as i}from"./chunk-44NLGLKY.js";var o=class o{};o.\u0275fac=function(s){return new(s||o)},o.\u0275mod=e({type:o}),o.\u0275inj=r({providers:[i,t,n],imports:[m,f,p]});var C=o;export{C as a};
