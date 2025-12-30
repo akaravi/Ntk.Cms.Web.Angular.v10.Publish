@@ -1,0 +1,1 @@
+import{Va as t}from"./chunk-UZHVWIGE.js";var n=class n{transform(r,...e){return r==null?"":typeof r=="object"?JSON.stringify(r,null,2).replace(/ /g,"&nbsp;").replace(/\n/g,"<br/>"):r}};n.\u0275fac=function(e){return new(e||n)},n.\u0275pipe=t({name:"prettyjson",type:n,pure:!0,standalone:!1});var i=n;export{i as a};
