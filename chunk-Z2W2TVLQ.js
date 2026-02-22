@@ -1,0 +1,1 @@
+import{Td as s,ka as i,lb as e}from"./chunk-2AL2II5Z.js";var r=class r{constructor(){this.sanitizer=i(s)}transform(t){return this.sanitizer.bypassSecurityTrustHtml(t)}};r.\u0275fac=function(n){return new(n||r)},r.\u0275pipe=e({name:"safeHtml",type:r,pure:!0,standalone:!1});var a=r;export{a};
